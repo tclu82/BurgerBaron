@@ -17,13 +17,13 @@ import java.util.Scanner;
  */
 public class Main {
 	
-	// Input file 
+	/** Input file */
 	private static final String INPUT = "customer.txt";
 	
-	// Prefix words
+	/** Prefix words */
 	private static final String PROCESS_ORDER = "Processing Order ";
 	
-	// For burger order
+	/** For burger order */
 	private int myCount;
 	
 	/**
