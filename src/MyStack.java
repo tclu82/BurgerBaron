@@ -10,10 +10,10 @@
  */
 public class MyStack<Type> {
 
-	// Current node from inner class.
+	/** Current node from inner class */
 	private Node myNode;
 	
-	// Size of stack.
+	/** Size of stack */
 	private int mySize;
 
 	/**
