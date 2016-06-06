@@ -40,8 +40,8 @@ public class Main {
 	 */
 	public void parseLine(String theLine) {
 		List<String> list = new ArrayList<String>();
-		List<String> addList = new ArrayList<String>();
-		List<String> removeList = new ArrayList<String>();
+		ArrayList<String> addList = new ArrayList<>();
+		ArrayList<String> removeList = new ArrayList<>();
 		
 		// http://goo.gl/r2npds
 		// http://goo.gl/0Dqc3g
